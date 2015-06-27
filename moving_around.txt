@@ -1,24 +1,25 @@
+#Changing this file
 pwd
-history | less -r 
+history | less -r
 history | less | -r
 history
-clear 
+clear
 cd ~
-cd . 
-cd .. 
+cd .
+cd ..
 cd Christmas/
 ls -l
-ls l 
+ls l
 cd Documents/
-ls -rt / 
-ls / 
-ls ~ 
+ls -rt /
+ls /
+ls ~
 clear
 cd /Users/davidsheffield/
 cd users/davidsheffield/
 cd Desktop/
-cd 
-ls -l 
+cd
+ls -l
 cd ../..
 cd ..
 cd Contacts/
@@ -28,17 +29,17 @@ cd Do
 cd /Documents
 man ls
 man
-ls -rt 
+ls -rt
 ls - rt
 ls -lt
 ls - lt
-ls -lw 
-ls -lt 
-ls -t 
+ls -lw
+ls -lt
+ls -t
 ls
 cd /
-curl -fsSL http://git.io/QxUaOQ | shar 
-curl -fsSL http://git.io/7UHtNA | shar 
+curl -fsSL http://git.io/QxUaOQ | shar
+curl -fsSL http://git.io/7UHtNA | shar
 git config --global user.email 'david.sheffield21@gmail.com'
 git config --global user.name 'David Sheffield'
 subl /etc/paths
@@ -60,32 +61,32 @@ ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
 uname
 Terminal > Preferences
 ls unicorn_cupcakes.exe
-ls moving_around.txt 
+ls moving_around.txt
 ls -t
 ls
 ls -l
 list -l
 history > moving_around.txt
 pwd
-history | less -r 
+history | less -r
 history | less | -r
 history
-clear 
+clear
 cd ~
-cd . 
-cd .. 
+cd .
+cd ..
 cd Christmas/
-ls l 
+ls l
 cd Documents/
-ls -rt / 
-ls / 
-ls ~ 
+ls -rt /
+ls /
+ls ~
 clear
 cd /Users/davidsheffield/
 cd users/davidsheffield/
 cd Desktop/
-cd 
-ls -l 
+cd
+ls -l
 cd ../..
 cd ..
 cd Contacts/
@@ -95,16 +96,16 @@ cd Do
 cd /Documents
 man ls
 man
-ls -rt 
+ls -rt
 ls - rt
 ls -lt
 ls - lt
-ls -lw 
-ls -lt 
-ls -t 
+ls -lw
+ls -lt
+ls -t
 cd /
-curl -fsSL http://git.io/QxUaOQ | shar 
-curl -fsSL http://git.io/7UHtNA | shar 
+curl -fsSL http://git.io/QxUaOQ | shar
+curl -fsSL http://git.io/7UHtNA | shar
 git config --global user.email 'david.sheffield21@gmail.com'
 git config --global user.name 'David Sheffield'
 subl /etc/paths
