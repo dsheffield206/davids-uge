@@ -1,0 +1,127 @@
+pwd
+history | less -r 
+history | less | -r
+history
+clear 
+cd ~
+cd . 
+cd .. 
+cd Christmas/
+ls -l
+ls l 
+cd Documents/
+ls -rt / 
+ls / 
+ls ~ 
+clear
+cd /Users/davidsheffield/
+cd users/davidsheffield/
+cd Desktop/
+cd 
+ls -l 
+cd ../..
+cd ..
+cd Contacts/
+cd Resume/
+cd Music\ Sheets/
+cd Do
+cd /Documents
+man ls
+man
+ls -rt 
+ls - rt
+ls -lt
+ls - lt
+ls -lw 
+ls -lt 
+ls -t 
+ls
+cd /
+curl -fsSL http://git.io/QxUaOQ | shar 
+curl -fsSL http://git.io/7UHtNA | shar 
+git config --global user.email 'david.sheffield21@gmail.com'
+git config --global user.name 'David Sheffield'
+subl /etc/paths
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+help
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+brew update
+brew updat
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+uname
+Terminal > Preferences
+ls unicorn_cupcakes.exe
+ls moving_around.txt 
+ls -t
+ls
+ls -l
+list -l
+history > moving_around.txt
+pwd
+history | less -r 
+history | less | -r
+history
+clear 
+cd ~
+cd . 
+cd .. 
+cd Christmas/
+ls l 
+cd Documents/
+ls -rt / 
+ls / 
+ls ~ 
+clear
+cd /Users/davidsheffield/
+cd users/davidsheffield/
+cd Desktop/
+cd 
+ls -l 
+cd ../..
+cd ..
+cd Contacts/
+cd Resume/
+cd Music\ Sheets/
+cd Do
+cd /Documents
+man ls
+man
+ls -rt 
+ls - rt
+ls -lt
+ls - lt
+ls -lw 
+ls -lt 
+ls -t 
+cd /
+curl -fsSL http://git.io/QxUaOQ | shar 
+curl -fsSL http://git.io/7UHtNA | shar 
+git config --global user.email 'david.sheffield21@gmail.com'
+git config --global user.name 'David Sheffield'
+subl /etc/paths
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+help
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+brew update
+brew updat
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+uname
+Terminal > Preferences
